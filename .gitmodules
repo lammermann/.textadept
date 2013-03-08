@@ -1,0 +1,9 @@
+[submodule "modules/textui"]
+	path = modules/textui
+	url = https://github.com/rgieseke/textui.git
+[submodule "modules/textredux"]
+	path = modules/textredux
+	url = https://github.com/rgieseke/textredux.git
+[submodule "modules/vim"]
+	path = modules/vim
+	url = git@github.com:lammermann/ta-vim.git
